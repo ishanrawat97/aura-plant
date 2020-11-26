@@ -40,7 +40,7 @@
       <div class="portfolio-items-wrapper">
 
         <div class="portfolio-item-wrapper">
-          <div class="portfolio-img-background" style="background-image: url(images/1.jfif)"></div>
+          <div class="portfolio-img-background" style="background-image: url(images/1.png)"></div>
         
           <div class="img-text-wrapper">
             <div class="subtitle">
@@ -50,7 +50,7 @@
        </div>
 
        <div class="portfolio-item-wrapper">
-          <div class="portfolio-img-background" style="background-image: url(images/2.jfif)"></div>
+          <div class="portfolio-img-background" style="background-image: url(images/2.png)"></div>
         
           <div class="img-text-wrapper">
             <div class="subtitle">
@@ -60,7 +60,7 @@
         </div>
 
         <div class="portfolio-item-wrapper">
-          <div class="portfolio-img-background" style="background-image: url(images/3.jfif)"></div>
+          <div class="portfolio-img-background" style="background-image: url(images/3.png)"></div>
           
           <div class="img-text-wrapper">
             <div class="subtitle">
@@ -80,7 +80,7 @@
         </div>
 
         <div class="portfolio-item-wrapper">
-          <div class="portfolio-img-background" style="background-image: url(images/5.jfif)"></div>
+          <div class="portfolio-img-background" style="background-image: url(images/5.png)"></div>
           
           <div class="img-text-wrapper">
             <div class="subtitle">
@@ -150,7 +150,7 @@
         </div>
 
         <div class="portfolio-item-wrapper">
-          <div class="portfolio-img-background" style="background-image: url(images/9.jfif)"></div>
+          <div class="portfolio-img-background" style="background-image: url(images/9.png)"></div>
         
           <div class="img-text-wrapper">
             <div class="subtitle">
